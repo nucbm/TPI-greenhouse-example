@@ -44,7 +44,7 @@ Aplicația trebuie să permită **identificarea și semnalarea unor anomalii**, 
 - [ ] Generarea de rapoarte sau statistici
 - [ ] Simularea unei acțiuni automate (de exemplu, pornirea ventilației)
 
-### Obiectiv de excelență – AI / LLM
+### Obiectiv AI / LLM
 
 Integrarea unui asistent conversațional care permite utilizatorului să formuleze întrebări în limbaj natural despre datele colectate.
 
@@ -55,7 +55,7 @@ Exemple:
 - „În ce intervale umiditatea solului a fost critică?”
 - „Explică posibilele cauze ale alertei din această dimineață.”
 
-Răspunsurile trebuie să fie fundamentate pe datele aplicației, nu doar pe cunoștințele generale ale modelului.
+*Răspunsurile trebuie să fie fundamentate pe datele aplicației, nu doar pe cunoștințele generale ale modelului.*
 
 ## 3. Arhitectura propusă
 
@@ -95,7 +95,7 @@ Fluxul de date este:
                 Backend API / DB
 ```
 
-Nu este necesară utilizarea unor dispozitive hardware reale. Toate componentele pot rula local, în containere sau în servicii cloud gratuite.
+*Nu sunt necesare dispozitive hardware reale. Toate componentele pot rula local, în containere sau în servicii cloud gratuite.*
 
 ## 4. Datele și simularea senzorilor
 
