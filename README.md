@@ -18,9 +18,9 @@ Proiectul urmărește simularea unui sistem IoT pentru monitorizarea condițiilo
 Sistemul colectează date simulate de la senzori (temperatură, umiditate, umiditatea solului), le transmite către un gateway/edge, apoi către un serviciu cloud, unde sunt stocate, analizate și prezentate utilizatorului printr-o interfață web.
 
 Aplicația trebuie să permită **identificarea și semnalarea unor anomalii**, de exemplu creșterea excesivă a temperaturii sau scăderea bruscă a umidității solului.
-
-**Întrebarea principală:** Cum poate un sistem IoT să identifice automat condiții anormale într-o seră, utilizând date provenite de la senzori?
-
+---
+**Întrebarea principală:**  *Cum poate un sistem IoT să identifice automat condiții anormale într-o seră, utilizând date provenite de la senzori?*
+---
 ## 2. Obiectivele proiectului
 
 ### Obiective obligatorii (MVP)
